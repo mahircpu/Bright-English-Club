@@ -69,9 +69,7 @@ if (currentYear) {
 }
 
 
-// =========================
-// CONTACT FORM - FORMSPREE
-// =========================
+
 
 const contactForm = document.getElementById("contact-form");
 
